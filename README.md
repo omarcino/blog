@@ -1,2 +1,0 @@
-# blog
-Omar Personal Blog
